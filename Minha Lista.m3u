@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD H265" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ FHD H265
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5789
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5789
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://3.bp.blogspot.com/-1lp0y51a85g/WoTeruA-L6I/AAAAAAAAB9c/r7LyZkJUfj0LDGl-bsRALqd667bWLfEIwCLcBGAs/s1600/grj.png" group-title="CANAIS GLOBO",GLOBO RJ HD
@@ -209,6 +211,16 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9819
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9821
 #EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RECORD TV MG SD" tvg-logo="https://2.bp.blogspot.com/-Re0NRofrIN4/W55N2EtRj1I/AAAAAAAACfc/YXXuH0KIFk0cj1EiIT5Klo7Wu9wz6U_aQCLcBGAs/s1600/recordmg.png" group-title="CANAIS ABERTOS",RECORD TV MG SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9822
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV DF HD" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczPq-EAjXGOSmbBfNxYX-twE4MPfUhjFA889nyJnMNrts72e4CO494QXiENmds7DiN-A4WPLjQEbuaod3xOnPJSdIm10Ap7f7bRVSqLo1Cophph14sAkFrkR-0ifR6HJCarR9okRAi091IzUtuaZ2XYh=w899-h599-s-no-gm" group-title="CANAIS ABERTOS",RECORD TV DF HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6306.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV DF SD" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczPq-EAjXGOSmbBfNxYX-twE4MPfUhjFA889nyJnMNrts72e4CO494QXiENmds7DiN-A4WPLjQEbuaod3xOnPJSdIm10Ap7f7bRVSqLo1Cophph14sAkFrkR-0ifR6HJCarR9okRAi091IzUtuaZ2XYh=w899-h599-s-no-gm" group-title="CANAIS ABERTOS",RECORD TV DF SD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6306.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RS HD" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczPgeBDzc5l3mjZkxzVvzHYMnT__UHRQdDOFBtU95RPTc7aWSpoOh6z9AxL2Pnyb8lRTZis_ZH8X9yILogpxSjLmm80pD2FEB4prkaOmybzsIdTF8-XFSUG2__GWYHO2MTC3VN7043uvjSGVImch0d4N=w899-h599-s-no-gm" group-title="CANAIS ABERTOS",RECORD TV RS HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6306.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV RS SD" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczPgeBDzc5l3mjZkxzVvzHYMnT__UHRQdDOFBtU95RPTc7aWSpoOh6z9AxL2Pnyb8lRTZis_ZH8X9yILogpxSjLmm80pD2FEB4prkaOmybzsIdTF8-XFSUG2__GWYHO2MTC3VN7043uvjSGVImch0d4N=w899-h599-s-no-gm" group-title="CANAIS ABERTOS",RECORD TV RS SD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6306.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV ITAPOAN HD" tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczN7fMsoH7Mo5XpCd0Wma0z9lTWzYMOMOL4yK9zlcY7geaFYKPdGYLUVH-vccS_LDorG2CS3SlSxSkfnMuoSmXKA09PhvKRpbG-D_W-PH8YzGqeCdJ9INVETtF3lAd25GJAlnwKK2gWPebOpdBKj6yh-=w1064-h599-s-no-gm" group-title="CANAIS ABERTOS",RECORD TV ITAPOAN HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6306.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV CLUBE PE FHD" tvg-logo="https://2.bp.blogspot.com/-3PQGGiL_e-w/Wm-F3QEpUuI/AAAAAAAAB8E/rFXWCENw5QYPWwp3jJSkTkxuxrPbAxmMgCLcBGAs/s1600/tvclube.png" group-title="CANAIS ABERTOS",RECORD TV CLUBE PE FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5297
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV CLUBE PE HD" tvg-logo="https://2.bp.blogspot.com/-3PQGGiL_e-w/Wm-F3QEpUuI/AAAAAAAAB8E/rFXWCENw5QYPWwp3jJSkTkxuxrPbAxmMgCLcBGAs/s1600/tvclube.png" group-title="CANAIS ABERTOS",RECORD TV CLUBE PE HD
@@ -217,24 +229,52 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9600
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6549
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV VITORIA" tvg-logo="https://3.bp.blogspot.com/-xcIirVqDR1s/W58Mbn34VuI/AAAAAAAACgA/7wMH6FLPKwgLvAYqqBKIfHjuIQRa58I_QCLcBGAs/s1600/tvvitoria.png" group-title="CANAIS ABERTOS",RECORD TV VITORIA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5271
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV CORREIO PB FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Tv_Correio.png/revision/latest?cb=20150215203218" group-title="CANAIS ABERTOS",RECORD TV CORREIO PB FHD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5297.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV AM TV ACRITICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png/revision/latest/scale-to-width-down/200?cb=20240523064212" group-title="CANAIS ABERTOS",RECORDTV AM TV ACRITICA
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5271.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD TV USA" tvg-logo="https://3.bp.blogspot.com/-yX8UsL_hfLM/Wg7x-4fGpBI/AAAAAAAABHs/WKh0QKd3A7QhqqIKwftJ3jERGRotG43QgCPcBGAYYCw/s1600/record.png" group-title="CANAIS ABERTOS",RECORD TV USA
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/3069.ts
 #EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="RECORD TV PORTUGAL" tvg-logo="https://3.bp.blogspot.com/-yX8UsL_hfLM/Wg7x-4fGpBI/AAAAAAAABHs/WKh0QKd3A7QhqqIKwftJ3jERGRotG43QgCPcBGAYYCw/s1600/record.png" group-title="CANAIS ABERTOS",RECORD TV PORTUGAL
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/1717
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6285
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND FHD [A]" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND FHD [A]
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6285
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND NORDESTE FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND NORDESTE FHD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4895.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS FHD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND RS FHD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4895.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND NORDESTE HD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND NORDESTE HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4895.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4895
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND CAMPINAS HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6548
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RS HD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND RS HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6548.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4132
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND CE SD" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND CE SD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4132.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SD [A]" tvg-logo="https://3.bp.blogspot.com/-FfvzZ0mtX4M/Wg7x0uXXwRI/AAAAAAAABFc/1m0Ry30hXZgqO0zBUx0rqrBuLKVbZifWACPcBGAYYCw/s1600/band.png" group-title="CANAIS ABERTOS",BAND SD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7515
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RIBEIRAO TV CLUBE" tvg-logo="https://www.clube.com.br/images/logo%20sistema%20clube.png" group-title="CANAIS ABERTOS",BAND RIBEIRAO TV CLUBE
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4132.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND PA RBATV" tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2025/07/logo_rbatv.png" group-title="CANAIS ABERTOS",BAND PA RBATV
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/4132.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2957
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT FHD [B]" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT FHD [B]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4896
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT NORDESTE FHD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT NORDESTE FHD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6393.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RS FHD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT RS FHD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/6393.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/330
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR LITORAL SP HD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT INTERIOR LITORAL SP HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5370.ts
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SD" tvg-logo="https://1.bp.blogspot.com/-t1__ul1AEh4/Wg7yCSo2fwI/AAAAAAAABIU/ABvZwhlo8-AhfIQ8WqvjWQl8NC-3XpoQgCPcBGAYYCw/s1600/sbt.png" group-title="CANAIS ABERTOS",SBT SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4079
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV JORNAL RECIFE FHD" tvg-logo="https://3.bp.blogspot.com/-_i2svi0tJzs/WhCgWGx6eWI/AAAAAAAABK8/NrMWRfUhR5QBRoVIztJCnXITytfCeAwXgCLcBGAs/s1600/tvjornal.png" group-title="CANAIS ABERTOS",SBT TV JORNAL RECIFE FHD
@@ -245,6 +285,12 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5270
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9572
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="https://4.bp.blogspot.com/-avjl_za3SJ4/W2xP_xGHIoI/AAAAAAAACVg/I1sRZor6BRYMH2lTpJmX1Mxg_KgYhpzzQCLcBGAs/s1600/vtv-sbt.png" group-title="CANAIS ABERTOS",SBT VTV CAMPINAS HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/331
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA TV DIFUSORA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/GHGG.png/revision/latest?cb=20210714172057" group-title="CANAIS ABERTOS",SBT MA TV DIFUSORA
+http://srv.elitehdbr.vip:8880/live/T60VtlUvfT/ewKar0nMAt/331.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MG TV ALTEROSA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Altrosa_2010.png/revision/latest?cb=20171007211107" group-title="CANAIS ABERTOS",SBT MG TV ALTEROSA
+http://srv.elitehdbr.vip:8880/live/T60VtlUvfT/ewKar0nMAt/331.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PI TV CIDADE VERDE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/Logotipo_TV_Cidade_Verde.png/250px-Logotipo_TV_Cidade_Verde.png" group-title="CANAIS ABERTOS",SBT PI TV CIDADE VERDE
+http://srv.elitehdbr.vip:8880/live/T60VtlUvfT/ewKar0nMAt/331.ts
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://2.bp.blogspot.com/-KUaQuudyPgM/Wg7yAZypfqI/AAAAAAAABIA/euldIr-IoBYgUwZsw4gI4I3kkO3iz0h4ACPcBGAYYCw/s1600/redetv.png" group-title="CANAIS ABERTOS",REDE TV FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4898
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://2.bp.blogspot.com/-KUaQuudyPgM/Wg7yAZypfqI/AAAAAAAABIA/euldIr-IoBYgUwZsw4gI4I3kkO3iz0h4ACPcBGAYYCw/s1600/redetv.png" group-title="CANAIS ABERTOS",REDE TV HD
@@ -267,18 +313,30 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2741
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/309
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://4.bp.blogspot.com/-ON3tREFD8_c/Wg7yF5SXJ5I/AAAAAAAABJU/xoNBzRqRixwV4V6mrI8FZgf_JBDWs6-hgCPcBGAYYCw/s1600/tvbrasil.png" group-title="CANAIS ABERTOS",TV BRASIL SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/311
+#EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="TV BRASIL MG REDE MINAS" tvg-logo="https://4.bp.blogspot.com/-ZWXbQFw972g/Wg7yAaC-WyI/AAAAAAAABH8/3eyuRcvZDwENpv919fvj7g-w5EJmpVW9ACPcBGAYYCw/s1600/redeminas.png" group-title="CANAIS ABERTOS",TV BRASIL MG REDE MINAS
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5155.ts
+#EXTINF:-1 tvg-id="Tvers.br" tvg-name="TV CULTURA TVE RS" tvg-logo="https://1.bp.blogspot.com/-L3VTBpcUUeg/Wg7yGtRhanI/AAAAAAAABJg/B39O5WPbZ24zR9-N40nJsTr9Z4opXkgagCPcBGAYYCw/s320/tvers.png" group-title="CANAIS ABERTOS",TV CULTURA TVE RS
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/8.ts
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV GAZETA SP HD" tvg-logo="https://2.bp.blogspot.com/-eTKb2ILVQJk/Wg7x5k5OI1I/AAAAAAAABGs/_dkoXW_22bwji8jqvh16F6gYZp8o7On3wCPcBGAYYCw/s1600/gazeta.png" group-title="CANAIS ABERTOS",TV GAZETA SP HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4914
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://2.bp.blogspot.com/-dCJzhxJFidg/Wg7x-vh0wpI/AAAAAAAABHo/n9Xz0sTZ5yAjaP2Kf6jO0xpXC8gv3ByvACPcBGAYYCw/s1600/rbtv.png" group-title="CANAIS ABERTOS",REDE BRASIL SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/319
 #EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="REDE BRASIL SD [A]" tvg-logo="https://2.bp.blogspot.com/-dCJzhxJFidg/Wg7x-vh0wpI/AAAAAAAABHo/n9Xz0sTZ5yAjaP2Kf6jO0xpXC8gv3ByvACPcBGAYYCw/s1600/rbtv.png" group-title="CANAIS ABERTOS",REDE BRASIL SD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2775
+#EXTINF:-1 tvg-id="Redeestacao.br" tvg-name="REDE BRASIL DE COMUNICAÇÃO HD" tvg-logo="https://1.bp.blogspot.com/-WG3MPdGC1AY/Wg7x-LtJB9I/AAAAAAAABHg/EDU98xSEakQmkUct3ZfMYe4HGjbUPoXWQCPcBGAYYCw/s1600/rbctv.png" group-title="CANAIS ABERTOS",REDE BRASIL DE COMUNICAÇÃO HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/3008.ts
+#EXTINF:-1 tvg-id="Rededobem.br" tvg-name="REDE DO BEM" tvg-logo="https://3.bp.blogspot.com/-J0Ivk68gFas/Wg7x_vihgCI/AAAAAAAABH4/Nq7ELKA--h02NY-P6VMU3EsKg-vTjO9FQCPcBGAYYCw/s1600/rededobem.png" group-title="CANAIS ABERTOS",REDE DO BEM
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/2774.ts
 #EXTINF:-1 tvg-id="Rbi.br" tvg-name="RBI SD" tvg-logo="https://3.bp.blogspot.com/-EoVeXaiWDrE/WiCuibOCH5I/AAAAAAAABiQ/CoyAv6lqRc8mOMecsy7_GeMLe3M2WCkEgCLcBGAs/s320/rbitv.png" group-title="CANAIS ABERTOS",RBI SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/35
 #EXTINF:-1 tvg-id="TvDiario.br" tvg-name="TV DIARIO FORTALEZA SD" tvg-logo="https://2.bp.blogspot.com/-hp4nMGcUFK4/Wg7yGDu0gyI/AAAAAAAABJc/Z3AisqCf650EwRku15JLhzkP4sDeueOXACPcBGAYYCw/s1600/tvdiario.png" group-title="CANAIS ABERTOS",TV DIARIO FORTALEZA SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4974
+#EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV UNIÃO FORTALEZA" tvg-logo="https://2.bp.blogspot.com/-0igmDXGvG8c/Wg7yAwBmX-I/AAAAAAAABIE/2k8RMtO4D3Ye5ERjo-b4JiqrtJG3Ac1XwCPcBGAYYCw/s1600/redeuniao.png" group-title="CANAIS ABERTOS",TV UNIÃO FORTALEZA
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/4973.ts
 #EXTINF:-1 tvg-id="Terraviva.br" tvg-name="TERRA VIVA SD" tvg-logo="https://4.bp.blogspot.com/-5XsS_85yalI/Wg7yE5DtDfI/AAAAAAAABJA/wig3_YP0gqYM5YaaDy5GdRQ40WPsT4MQwCPcBGAYYCw/s1600/terraviva.png" group-title="CANAIS ABERTOS",TERRA VIVA SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/313
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL" tvg-logo="https://1.bp.blogspot.com/-iQeUAEiVBeo/Wg7yBojJyUI/AAAAAAAABIM/tuDJovzw_4Mc8FODhL39EC1sC0-ntNmpwCPcBGAYYCw/s1600/rural.png" group-title="CANAIS ABERTOS",CANAL RURAL
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/307.ts
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://3.bp.blogspot.com/-79rD_nRxlpE/WmJDt0cKLcI/AAAAAAAAB5w/ATV2OZvM0CsNdWqX4uTwS8NwKpOnAVN5wCLcBGAs/s1600/camara.png" group-title="CANAIS ABERTOS",TV CAMARA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9603
 #EXTINF:-1 tvg-id="Tvjustica.br" tvg-name="TV JUSTICA SD" tvg-logo="https://2.bp.blogspot.com/-2LZJcCGjPSo/W1jII8OO1_I/AAAAAAAACSc/TytUpRI_aBUAiGgaI7RNx6olxZ3VIU_6ACLcBGAs/s1600/TV%2BJUSTICA.png" group-title="CANAIS ABERTOS",TV JUSTICA SD
@@ -289,6 +347,12 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9602
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/323
 #EXTINF:-1 tvg-id="" tvg-name="TV GERAL BAHIA SD" tvg-logo="https://1.bp.blogspot.com/-xdEWHuWSVlY/Wg7yHMlglKI/AAAAAAAABJw/3IrezgOh-hQSp3FvxhLOrvBpWparrueQwCPcBGAYYCw/s1600/tvgeral.png" group-title="CANAIS ABERTOS",TV GERAL BAHIA SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5158
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WEB TV MINAS" tvg-logo="https://2.bp.blogspot.com/-30rjNnbWanw/Wg7yKAtfhVI/AAAAAAAABKQ/OgmIVPrf3IkZW5Lc_dCtEV0ZgtNHO8lhACPcBGAYYCw/s1600/webtvminas.png" group-title="CANAIS ABERTOS",WEB TV MINAS
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVRE TV RN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXppE17xsWVZpFtR5EzXAai5Dc_TiZ2Cv11Yfr8gLLk8ht0WfK3phSRU&s=10" group-title="CANAIS ABERTOS",LIVRE TV RN
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5166.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIA MORENA" tvg-logo="https://1.bp.blogspot.com/-stJfjUGJ9FA/Wg7yJlifZTI/AAAAAAAABKM/V9NhfpGRNy41DuNgE8LmW4cqpIOwO638QCPcBGAYYCw/s1600/viamorena.png" group-title="CANAIS ABERTOS",VIA MORENA
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5164.ts
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K UHD" tvg-logo="https://2.bp.blogspot.com/-tiQuwAQ6wB8/WhDa2mWPG2I/AAAAAAAABMM/xnWWtVtjhQs4nHKcOpMgOi5MC8VMG9ylwCLcBGAs/s1600/spotv.png" group-title="ESPORTES",SPORTV 4K UHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/8116
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265" tvg-logo="https://2.bp.blogspot.com/-tiQuwAQ6wB8/WhDa2mWPG2I/AAAAAAAABMM/xnWWtVtjhQs4nHKcOpMgOi5MC8VMG9ylwCLcBGAs/s1600/spotv.png" group-title="ESPORTES",SPORTV FHD H265
@@ -349,11 +413,15 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2834
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5605
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://2.bp.blogspot.com/-sgCNaCmIbBU/Wh_-ZhZHAqI/AAAAAAAABd8/aphhHB2L4C0Wski0MvtuyPKmWSZG1-9HQCLcBGAs/s1600/foxsports2.png" group-title="ESPORTES",FOX SPORTS 2 SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/160
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K UHD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE 4K UHD
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5369
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5369
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/201
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD [A]" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE HD [A]
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4911
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD [A] 2" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE HD [A] 2
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4911
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES",COMBATE SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/202
@@ -517,83 +585,83 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5745
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5746
 #EXTINF:-1 tvg-id="Premiere8.br" tvg-name="PREMIERE SD (INDEFINIDO 8)" tvg-logo="https://2.bp.blogspot.com/-GPvIUmvgmqA/WhDa1bYdTsI/AAAAAAAABL8/7q5LOw7B5SQrvQu8oFBwM0M6Et1lcGuhACLcBGAs/s1600/premiere.png" group-title="PREMIERE CLUBES",PREMIERE SD (INDEFINIDO 8)
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5751
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD H265
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2952
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2752
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/287
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD LEG
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9549
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD [A]" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD [A]
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4918
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/286
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD LEG" tvg-logo="https://3.bp.blogspot.com/-sMcD-0qxqd8/WhTzkrK1q0I/AAAAAAAABSE/8qtuusvx9bML1btJ86p_cIdWycXXBS2jACLcBGAs/s1600/tcpremium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD LEG
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/TC_Premium.png/250px-TC_Premium.png" group-title="GLOBOSAT FILMES",TELECINE PREMIUM SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9548
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD H265
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2954
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2759
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/296
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD [A]" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD [A]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4919
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD LEG" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD LEG
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9555
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/295
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD LEG" tvg-logo="https://1.bp.blogspot.com/-DH1qs9c6vdI/WhTzmBEkALI/AAAAAAAABSI/WWveOYIRdlwfwVAnRL5EUm4CFiM2xwC9ACLcBGAs/s1600/tcaction.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD LEG
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TC_Action.png/250px-TC_Action.png" group-title="GLOBOSAT FILMES",TELECINE ACTION SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9554
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD H265
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6566
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2953
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/290
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD LEG
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9551
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [A]" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD [A]
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5441
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2754
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD LEG" tvg-logo="https://1.bp.blogspot.com/-R2Ah85FOm4Q/WhTzvEIabdI/AAAAAAAABSM/dSs-OSHD5xsG2lY7SJHI7RX_Qvl69vYZQCLcBGAs/s1600/tcpipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD LEG
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TC_Pipoca.png/250px-TC_Pipoca.png" group-title="GLOBOSAT FILMES",TELECINE PIPOCA SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9550
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN FHD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5944
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/293
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD LEG" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD LEG
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9553
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD [A]" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD [A]
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4920
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/292
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD LEG" tvg-logo="https://4.bp.blogspot.com/-5hUWClTVHmk/WhTzzUr8zFI/AAAAAAAABSQ/Vi65_PEliLEwIORmlnKPf0g1QBDSYuA8wCLcBGAs/s1600/tcfun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD LEG
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TC_Fun.png/250px-TC_Fun.png" group-title="GLOBOSAT FILMES",TELECINE FUN SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9552
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD H265
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2951
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5945
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/284
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD LEG
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9547
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD [A]" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD [A]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5442
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/283
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD LEG" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD LEG
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD LEG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD LEG
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9546
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD [A]" tvg-logo="https://4.bp.blogspot.com/-7XT5BYZORIA/WhT0QNEF5MI/AAAAAAAABSY/Tq91Hf6sOTQMy7j8yLAxa0eKqGuqSqsfACLcBGAs/s1600/tctouch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD [A]
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH SD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TC_Touch.png/250px-TC_Touch.png" group-title="GLOBOSAT FILMES",TELECINE TOUCH SD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2750
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT FHD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5943
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4791
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD [A]" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD [A]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD [A]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT HD [A]
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4923
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://3.bp.blogspot.com/-4v3fTyeNX1g/WhRdeZL89-I/AAAAAAAABRk/JZ3r5R3ewVcyR2wErdh_nejC0uj-0GxmACLcBGAs/s1600/tccult.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/TC_Cult.png" group-title="GLOBOSAT FILMES",TELECINE CULT SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/281
 #EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="https://4.bp.blogspot.com/-hLOcq729luU/WhT0ZL5SGmI/AAAAAAAABSc/VIsGSBy3deQoVh7nqw9Dlp8tXJHtOLXCgCEwYBhgL/s1600/megapix.png" group-title="GLOBOSAT FILMES",MEGAPIX FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2965
@@ -895,6 +963,10 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2861
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7519
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://3.bp.blogspot.com/-S4owgV5RQTU/Whg9ZvR3YBI/AAAAAAAABW0/Act_YyhRACUDfwyda0cpJ2_Bso1VvzzVQCLcBGAs/s1600/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/97
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="https://4.bp.blogspot.com/-OGFZ7-ipPUg/Wi6Ws3NbZyI/AAAAAAAABtc/Vhd1rkLhU8stwR6NUgFrFBqieeEWldVWQCLcBGAs/s1600/cinebrasil.png" group-title="FILMES E SERIES",CINE BRASIL
+http://srv.elitehdbr.com:55461/live/2FbM0GDRBw/PoT6La0GnU/5460.ts
+#EXTINF:-1 tvg-id="Sundancehd.br" tvg-name="SUNDANCE HD" tvg-logo="https://3.bp.blogspot.com/-YcjIL7LfrWA/Wi6WsCEZU9I/AAAAAAAABtY/tBM04N6yz_g9GkKe55Auj0-E5EM-so1_QCLcBGAs/s1600/sundance.png" group-title="FILMES E SERIES",SUNDANCE HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5438.m3u8
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://4.bp.blogspot.com/-yD4gtGMGYto/W5KABgKdp0I/AAAAAAAACcM/7tQgWjniOP8-HTXWo2LYK6_hwewa5uS6wCLcBGAs/s1600/AMC_%25282013%2529.png" group-title="FILMES E SERIES",AMC FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5847
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://4.bp.blogspot.com/-yD4gtGMGYto/W5KABgKdp0I/AAAAAAAACcM/7tQgWjniOP8-HTXWo2LYK6_hwewa5uS6wCLcBGAs/s1600/AMC_%25282013%2529.png" group-title="FILMES E SERIES",AMC HD
@@ -923,6 +995,16 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7514
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9564
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/214
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM HD
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/214.m3u8
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD LEG" tvg-logo="https://4.bp.blogspot.com/-GJUDS1COJqs/Whg9ejBcOuI/AAAAAAAABXA/fbI7B9pUxIESMHd9D1gTD41f82qEL0X8gCLcBGAs/s1600/tcm.png" group-title="FILMES E SERIES",TCM SD LEG
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/214.m3u8
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT" tvg-logo="https://2.bp.blogspot.com/-8sMsOPlQcbU/Whg9hcLjsII/AAAAAAAABXE/ek_XL4wFaioRoXTJ8pX2Vf7nNf41O5R3ACLcBGAs/s1600/isat.png" group-title="FILMES E SERIES",I-SAT
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/206.ts
+#EXTINF:-1 tvg-id="iSat.br" tvg-name="I-SAT SD [A]" tvg-logo="https://2.bp.blogspot.com/-8sMsOPlQcbU/Whg9hcLjsII/AAAAAAAABXE/ek_XL4wFaioRoXTJ8pX2Vf7nNf41O5R3ACLcBGAs/s1600/isat.png" group-title="FILMES E SERIES",I-SAT SD [A]
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/2810.ts
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD H265" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH FHD H265
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6544
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH FHD" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6544
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="HOME & HEALTH HD" tvg-logo="https://1.bp.blogspot.com/-0ZRpk7mF8v4/Wh8TXOn_pnI/AAAAAAAABcs/69goEmbY4pwU_3x3keYW-abZR3z090ntACLcBGAs/s1600/Discovery_HomeHealth.png" group-title="VARIEDADES",HOME & HEALTH HD
@@ -955,6 +1037,8 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5060
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5345
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC SD" tvg-logo="https://4.bp.blogspot.com/-Ud_YcamaDAY/WhtB9talAbI/AAAAAAAABaw/VO8NyBHz3y4vqYCbRT0ko4qL5EhOiVKKACLcBGAs/s1600/tlc.png" group-title="VARIEDADES",TLC SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/76
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL BOX" tvg-logo="https://3.bp.blogspot.com/-s9_UPG6qXdg/Wi6bTSn66gI/AAAAAAAABto/sTerA8m40hwIdcTaUopYySkMJbd7niF7QCLcBGAs/s1600/travelbox.png" group-title="VARIEDADES",TRAVEL BOX
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5461.ts
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA FHD H265" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA FHD H265
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2947
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://3.bp.blogspot.com/-s1odC6DUJ5g/W7PPsLj373I/AAAAAAAAClQ/Us5B2iuDuMUpZFOoSssm0rCYcoprsVUbQCLcBGAs/s1600/viva.png" group-title="VARIEDADES",VIVA HD
@@ -1083,12 +1167,34 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9635
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/90
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://1.bp.blogspot.com/-WcBiD3cSvZQ/Whs8eZfrsGI/AAAAAAAABZ0/29j73tjbgb8NbsNc7t_Yv6B62FReWEC0ACLcBGAs/s1600/primebox.png" group-title="MUSICAS",PRIME BOX BRAZIL HD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2779
+#EXTINF:-1 tvg-id="" tvg-name="NRJ HITS HD" tvg-logo="https://4.bp.blogspot.com/-JGak2e86aXA/WihawByeOWI/AAAAAAAABrw/csVgFOpPSi4OvpNROmRvrnqj1omRxae2QCLcBGAs/s1600/nrjtv.png" group-title="MUSICAS",NRJ HITS HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5412.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV HD" tvg-logo="https://2.bp.blogspot.com/-o50dndfm1EQ/WihbSmgW4kI/AAAAAAAABsE/4V8B7ERYB4cAMhK4er1-L4XauhrSs55OACLcBGAs/s1600/capitaltv.png" group-title="MUSICAS",CAPITAL TV HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5411.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV538 HD" tvg-logo="https://3.bp.blogspot.com/-oXNG5PChgo0/WilStKDjteI/AAAAAAAABsg/IElbghZ8m70uSzlq4i4cQkkeGY3LVrDoACLcBGAs/s1600/tv538.png" group-title="MUSICAS",TV538 HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5417.ts
+#EXTINF:-1 tvg-id="" tvg-name="DJING MUSIC HD" tvg-logo="https://2.bp.blogspot.com/-5sjSxiFBdJE/WhtAQZWq9kI/AAAAAAAABaY/oLCKU60ssLMv_37YEjWt3Z_e21lR8RV5QCLcBGAs/s1600/djing.png" group-title="MUSICAS",DJING MUSIC HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5174.ts
+#EXTINF:-1 tvg-id="" tvg-name="HEAVY METAL TV HD" tvg-logo="https://3.bp.blogspot.com/-jCjJmSYDzyU/WihTwxkx_ZI/AAAAAAAABqk/wrCy1wT-s0APjpF3JoIl-37-ie8Q5i46ACLcBGAs/s1600/heavymetaltv.png" group-title="MUSICAS",HEAVY METAL TV HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5421.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIOU TV HD" tvg-logo="https://2.bp.blogspot.com/-5bhdR9w5uM4/WihR7s62kEI/AAAAAAAABqE/sb0CyGTrxswswASRm6EANWxpU9Kvl72lQCLcBGAs/s1600/radiou.png" group-title="MUSICAS",RADIOU TV HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5422.ts
+#EXTINF:-1 tvg-id="" tvg-name="1HD MUSIC TELEVISION" tvg-logo="https://1.bp.blogspot.com/-KzGBgsj1yJQ/WihQS7hg2SI/AAAAAAAABpk/TEMbR1ID0y06PjO4EDkmYI2ruiH-aSqPgCLcBGAs/s1600/1hd.png" group-title="MUSICAS",1HD MUSIC TELEVISION
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5424.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESKA BEST MUSIC TV HD" tvg-logo="https://4.bp.blogspot.com/-MzVOmBGP2Is/WihWCJHiNlI/AAAAAAAABrI/-id3g-tXsK8yK88fvI8FLuL9l7BtzKMmwCLcBGAs/s1600/eskabest.png" group-title="MUSICAS",ESKA BEST MUSIC TV HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5416.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESKA PARTY TV HD" tvg-logo="https://2.bp.blogspot.com/-Q4tpoZ9dB7A/Wihan6WAd2I/AAAAAAAABrs/Zg6t-0lr8y0RB6yBfKh1_gG5k0BsVtW4ACLcBGAs/s1600/eskaparty.png" group-title="MUSICAS",ESKA PARTY TV HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5414.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESKA ROCK TV" tvg-logo="https://4.bp.blogspot.com/-PdhK63ynB4k/WihY1QZfjaI/AAAAAAAABrg/qcfSvQi4W7Y51s5-Fu1DtfxhO_joMsdzACLcBGAs/s320/eskarock.png" group-title="MUSICAS",ESKA ROCK TV
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5415.ts
 #EXTINF:-1 tvg-id="" tvg-name="VIRGIN TV" tvg-logo="https://1.bp.blogspot.com/-PqBF12rkSkE/WihU4AC-5yI/AAAAAAAABqw/5nvJfIjJDNwrS8n6CTEB5opkPYswQUeegCLcBGAs/s1600/vigintv.png" group-title="MUSICAS",VIRGIN TV
-http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5419
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5419.ts
 #EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://4.bp.blogspot.com/-eSHXZN3Fjf8/WihJ3PJSy5I/AAAAAAAABo8/qBnYOGTxK-EwtqadKxHEVoWiUh4uqelpACLcBGAs/s1600/logo_m2o%255B1%255D.png" group-title="MUSICAS",M2O
-http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5426
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5426.ts
 #EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="https://1.bp.blogspot.com/-PnBQjifYjPc/WhtAN4QxN8I/AAAAAAAABaU/AxjygALxFAMFIfIR6hYbIfpgaIDaOIyRACLcBGAs/s1600/hittv.png" group-title="MUSICAS",HIT TV
-http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4558
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/4558.ts
+#EXTINF:-1 tvg-id="" tvg-name="OTTO FM TV" tvg-logo="https://4.bp.blogspot.com/-XHgSGsSgkdU/WihObCG3umI/AAAAAAAABpY/Kx4knMxxgccdBaU-03Dfv8RJsRrj_6mlACLcBGAs/s1600/ottfmtv.png" group-title="MUSICAS",OTTO FM TV
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5425.ts
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://1.bp.blogspot.com/-W8paYGcgDKI/Wh8TWYWd60I/AAAAAAAABcc/fHHsSzJ-als0iZO9n5rmBHLLCyH7ghj3gCLcBGAs/s1600/AnimalPlanet.png" group-title="CULTURA",ANIMAL PLANET FHD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5902
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://1.bp.blogspot.com/-W8paYGcgDKI/Wh8TWYWd60I/AAAAAAAABcc/fHHsSzJ-als0iZO9n5rmBHLLCyH7ghj3gCLcBGAs/s1600/AnimalPlanet.png" group-title="CULTURA",ANIMAL PLANET HD
@@ -1355,18 +1461,40 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5326
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/3009
 #EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="https://3.bp.blogspot.com/-4njtu0KtPAo/WiCuiwxKWpI/AAAAAAAABiY/ACBuJxZ4zEc_wYSTJWNBYL48YrdP90aqgCLcBGAs/s1600/redes21.png" group-title="RELIGIOSO",REDE SECULO 21
 https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id="Tvfeliz.br" tvg-name="TV FELIZ" tvg-logo="https://3.bp.blogspot.com/-6bWXmJhoC2s/WiCukekD4eI/AAAAAAAABio/5OzDn2KWbdU_GCoLChyBwqF9pRLl9f4SwCLcBGAs/s1600/tvfeliz.png" group-title="RELIGIOSO",TV FELIZ
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5159.ts
 #EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSO",TV NOVO TEMPO
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5528
 #EXTINF:-1 tvg-id="Tvevangelizar.br" tvg-name="TV EVANGELIZAR" tvg-logo="https://4.bp.blogspot.com/-J5PZsLbzgKI/WiCujergCXI/AAAAAAAABik/O36tiCGRhMYwu0TemqdWyXtGM1D1YjlOQCLcBGAs/s1600/tvevangelizar.png" group-title="RELIGIOSO",TV EVANGELIZAR
-http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5154
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5155
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV" tvg-logo="https://4.bp.blogspot.com/-L4-QkCF3ghs/WiCuhsnH7sI/AAAAAAAABiE/jls_lGGmmzMcRdgWhQGxSQSkTrgXzSBZgCLcBGAs/s1600/lbvtv.png" group-title="RELIGIOSO",BOA VONTADE TV
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/25.ts
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="REDE FAMILIA" tvg-logo="https://4.bp.blogspot.com/-i5focuGuEeg/WiC4FoPbgRI/AAAAAAAABi4/eyMB7Gqgh7MpgywcQkS--07CR8RTYY3vwCLcBGAs/s1600/redefamilia.png" group-title="RELIGIOSO",REDE FAMILIA
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5165.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BG%C3%AAnesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" group-title="RELIGIOSO",REDE GENESIS
+http://srv.elitehdbr.com:55461/live/2FbM0GDRBw/PoT6La0GnU/5656.ts
+#EXTINF:-1 tvg-id="Cnt.br" tvg-name="CNT SD" tvg-logo="https://1.bp.blogspot.com/-EMF09PW2kig/WiCuiX_Gv_I/AAAAAAAABiU/22ILr28X3zAA2MomyfzKqeyoCXLOcRdMwCLcBGAs/s1600/redecnt.png" group-title="RELIGIOSO",CNT SD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/15.ts
+#EXTINF:-1 tvg-id="Rit.br" tvg-name="RIT SD" tvg-logo="https://2.bp.blogspot.com/-6OhQI12jm4s/WiCu9z69BnI/AAAAAAAABi0/WoRS5BinWgQhWep10PQ8truuLxGu2IO6gCLcBGAs/s1600/rittv.png" group-title="RELIGIOSO",RIT SD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPIRIT TELEVISION" tvg-logo="https://4.bp.blogspot.com/-Wix0Rf-nIJw/WihF8Vk6HCI/AAAAAAAABok/g55kF0z5ZncsRiGfDIEaTKnPpGZH8nTbgCLcBGAs/s1600/spirit.png" group-title="RELIGIOSO",SPIRIT TELEVISION
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5427.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL CARTOON" tvg-logo="https://3.bp.blogspot.com/-GZdylkE-7_U/Wu5t8uG3ZRI/AAAAAAAACEY/LfhmNQrrVGMPnRJ4hrTY_a1CIkLuS6TWgCLcBGAs/s320/GOSPELCARTOON.png" group-title="RELIGIOSO",GOSPEL CARTOON
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7121
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="https://1.bp.blogspot.com/-xwl7gNUuZb4/WiC6cR9JqpI/AAAAAAAABjA/kp58eLyroa4KinQWVzjP-BZ-xgy9ZQ59wCLcBGAs/s1600/gospelmoviestv.png" group-title="RELIGIOSO",GOSPEL MOVIES TELEVISION
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7120
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL MUSIC TELEVISION" tvg-logo="https://1.bp.blogspot.com/-ixY-eRpltPE/WiC6cTtdUPI/AAAAAAAABi8/jWiOoTo4Z78pI11itTOjMdUY-xHq-oQ3ACLcBGAs/s1600/gospelnusictv.png" group-title="RELIGIOSO",GOSPEL MUSIC TELEVISION
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/3006.ts
 #EXTINF:-1 tvg-id="" tvg-name="IMPD TV SD" tvg-logo="https://3.bp.blogspot.com/-Zd3xwSBdhic/WiCuhTrp4BI/AAAAAAAABiA/eww_bpwKOSgX8v4-kUaUbr1nkRsIYSUsQCLcBGAs/s1600/impdtv.png" group-title="RELIGIOSO",IMPD TV SD
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/4560
 #EXTINF:-1 tvg-id="" tvg-name="TV GIDEOES SD" tvg-logo="https://1.bp.blogspot.com/-5jR61nGcM-s/WiCukwOCGLI/AAAAAAAABis/POopI65Bo7oEmlgsQh4AvHz1-xL7kA-VgCLcBGAs/s1600/tvgideoes.png" group-title="RELIGIOSO",TV GIDEOES SD
 http://streaming01.zas.media:1935/gideoes/smil:tvgideoes.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV TERCEIRO ANJO" tvg-logo="https://1.bp.blogspot.com/-viwabKuaVo8/WiCulDreuyI/AAAAAAAABiw/ipUJVDJjKVYEmw2y2onNhOSUYmQgxHoSQCLcBGAs/s1600/tvterceiroanjo.png" group-title="RELIGIOSO",TV TERCEIRO ANJO
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5161.ts
+#EXTINF:-1 tvg-id="" tvg-name="CJC TV" tvg-logo="https://3.bp.blogspot.com/-CK6tge2n6K4/WiCuhPnm73I/AAAAAAAABh4/-qNngeVAOWsbkQmEFDG-AbtVV5mhv-LAgCLcBGAs/s1600/cjctv.png" group-title="RELIGIOSO",CJC TV
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5163.ts
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL GOSPEL TV HD" tvg-logo="https://4.bp.blogspot.com/-wq9uWKPCu_0/WiCuiIdsnFI/AAAAAAAABiM/paP5qAHMGW4RK9dqVxHeuVCBpYk4xRNAgCLcBGAs/s1600/portalgospeltv.png" group-title="RELIGIOSO",PORTAL GOSPEL TV HD
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/3012.ts
 #EXTINF:-1 tvg-id="" tvg-name="TV VIANNEY" tvg-logo="https://4.bp.blogspot.com/-c4wx-G2Y39g/W47L91fZYeI/AAAAAAAACYk/UxmSLxDQd2seevzROk8P14v0Jof6E2qPACLcBGAs/s1600/tvvianey.png" group-title="RELIGIOSO",TV VIANNEY
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9773
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E *" tvg-logo="https://3.bp.blogspot.com/-cXnwJW2fZ68/Whg9UwdYktI/AAAAAAAABWs/C0DiAW2_2h8WGo-Poz_fj_QgvosDBWyvACLcBGAs/s1600/aande.png" group-title="GRADE ALTERNATIVA 1",A&E *
@@ -2267,6 +2395,16 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5667
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5939
 #EXTINF:-1 tvg-id="EliteFun.br" tvg-name="ELITE FUN" tvg-logo="http://142.54.191.58/i/elite-fun.png" group-title="ESPECIAIS ELITE",ELITE FUN
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5938
+#EXTINF:-1 tvg-id="EliteSilvio.br" tvg-name="24H PEGADINHAS SILVIO SANTOS" tvg-logo="https://s2.dmcdn.net/u/5nQB71LyNvt5nfkat/240x240" group-title="ESPECIAIS ELITE",24H PEGADINHAS SILVIO SANTOS
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5789.m3u8
+#EXTINF:-1 tvg-id="EliteJoaoKleber.br" tvg-name="24H PEGADINHAS JOAO KLEBER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Joaoklebershow.png/revision/latest?cb=20210514194351" group-title="ESPECIAIS ELITE",24H PEGADINHAS JOAO KLEBER
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5789.m3u8
+#EXTINF:-1 tvg-id="EliteSitio.br" tvg-name="SITIO DO PICAPAU AMARELO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/S%C3%ADtio_2001.jpg/revision/latest?cb=20131130203931" group-title="ESPECIAIS ELITE",SITIO DO PICAPAU AMARELO
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5789.m3u8
+#EXTINF:-1 tvg-id="EliteTrapalhoes.br" tvg-name="OS TRAPALHOES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Os_trapalhoes-2017.jpg/revision/latest?cb=20170919201702" group-title="ESPECIAIS ELITE",OS TRAPALHOES
+http://srv.elitehdbr.vip:8880/live/Ja0NiU2EAG/Cf7Xkemeve/5789.m3u8
+#EXTINF:-1 tvg-id="EliteEscolinha.br" tvg-name="ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/EDPR.png/revision/latest?cb=20260316142105" group-title="ESPECIAIS ELITE",ESCOLINHA DO PROFESSOR RAIMUNDO
+http://diretogo.com:80/g845344x/1436041/9561
 #EXTINF:-1 tvg-id="EliteJesus.br" tvg-name="JESUS - NOVELA RECORD 24HORAS" tvg-logo="https://amonovelas.com.br/wp-content/uploads/2018/07/novela-jesus.jpg" group-title="ESPECIAIS ELITE",JESUS - NOVELA RECORD 24HORAS
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/9844
 #EXTINF:-1 tvg-id="EliteMasterChef.br" tvg-name="MASTERCHEF 24H" tvg-logo="https://image.tmdb.org/t/p/w533_and_h300_bestv2/seB1kHgAY0zgcDB6oSQqF8ZT3eb.jpg" group-title="ESPECIAIS ELITE",MASTERCHEF 24H
@@ -2277,18 +2415,40 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7334
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5445
 #EXTINF:-1 tvg-id="EliteSaideBaixo.br" tvg-name="SAI DE BAIXO" tvg-logo="https://seriepix.net/images/series/poster/sai-de-baixo-1491399196.jpg" group-title="ESPECIAIS ELITE",SAI DE BAIXO
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/8099
+#EXTINF:-1 tvg-id="EliteDPA.br" tvg-name="D.P.A. DETETIVES DO PREDIO AZUL" tvg-logo="https://web.archive.org/web/20190402173300im_/http://s2.glbimg.com/zVlk62hJyZ8KRNaENZ1_cz1uyTw=/140x208/s2.glbimg.com/2X96cG-yYxrAfwzfgVSxEpaIUJ0=/1080x1600/s.glbimg.com/vi/mk/program/7173/poster/3/1080x1600.jpg" group-title="ESPECIAIS ELITE",D.P.A. DETETIVES DO PREDIO AZUL
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
+#EXTINF:-1 tvg-id="EliteGaby.br" tvg-name="GABY ESTRELLA" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/07/13/21/51/383715.jpg" group-title="ESPECIAIS ELITE",GABY ESTRELLA
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
+#EXTINF:-1 tvg-id="EliteTeletubbies.br" tvg-name="TELETUBBIES" tvg-logo="https://yt3.googleusercontent.com/dntqOvcCtRkUKlSxAXqG45f4gZKz7dKk0vhxJiojA_Wuln91oEJK_TUIIk_LCvopoxU9Rx7igw0=s160-c-k-c0x00ffffff-no-rj" group-title="ESPECIAIS ELITE",TELETUBBIES
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
+#EXTINF:-1 tvg-id="EliteSouLuna.br" tvg-name="SOU LUNA" tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/16/12/15/14/07/004471.jpg" group-title="ESPECIAIS ELITE",SOU LUNA
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
 #EXTINF:-1 tvg-id="EliteEuaPatroa.br" tvg-name="EU A PATROA E AS CRIANCAS" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/09/eu-a-patroa-e-as-criancas-logo.jpg" group-title="ESPECIAIS ELITE",EU A PATROA E AS CRIANCAS
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5648
 #EXTINF:-1 tvg-id="EliteTrapaSerie.br" tvg-name="OS TRAPALHOES SERIE" tvg-logo="http://entretenimento.r7.com/blogs/odair-braz-jr/files/2016/09/trapalhoes.jpg" group-title="ESPECIAIS ELITE",OS TRAPALHOES SERIE
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5652
 #EXTINF:-1 tvg-id="EliteTrapaFilmes.br" tvg-name="OS TRAPALHOES FILMES" tvg-logo="https://2.bp.blogspot.com/-PoYOFZIfXEI/W1IRIptpCkI/AAAAAAAACRU/5QQco4eT8ts5SHBpYOzslZ4jljDUXfAJwCLcBGAs/s320/trapalhoesfilme.png" group-title="ESPECIAIS ELITE",OS TRAPALHOES FILMES
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5650
+#EXTINF:-1 tvg-id="EliteDidi.br" tvg-name="A TURMA DO DIDI" tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_face/7NKowhSN0SfK1VEcsfbFVWJ4NEM.jpg" group-title="ESPECIAIS ELITE",A TURMA DO DIDI
+http://srv.elitehdbr.com:55461/live/2FbM0GDRBw/PoT6La0GnU/5651.ts
+#EXTINF:-1 tvg-id="EliteCarasdePau.br" tvg-name="OS CARAS DE PAU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Os-Caras-de-Pau-novo-logo-2012.jpg/revision/latest?cb=20130825142032" group-title="ESPECIAIS ELITE",OS CARAS DE PAU
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
 #EXTINF:-1 tvg-id="EliteCsi.br" tvg-name="CSI" tvg-logo="http://drinkinggamezone.com/img/games/tv-show/csi.jpg" group-title="ESPECIAIS ELITE",CSI
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5655
 #EXTINF:-1 tvg-id="EliteDrHouse.br" tvg-name="DR HOUSE" tvg-logo="https://i.pinimg.com/736x/3a/e5/d1/3ae5d1d3121dcaccb2d609e528e30491--salad-quotes-dr-house-quotes.jpg" group-title="ESPECIAIS ELITE",DR HOUSE
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5654
+#EXTINF:-1 tvg-id="EliteDoctorWho.br" tvg-name="DOCTOR WHO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Doctor_who_2010_logo.png/revision/latest?cb=20130905162621" group-title="ESPECIAIS ELITE",DOCTOR WHO
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
+#EXTINF:-1 tvg-id="EliteGreyAnatomy.br" tvg-name="GREY'S ANATOMY" tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/GreysAnatomy/showimages/595b4b6741d23f8a6481988a5a4e0fbd/700x234-Q80_595b4b6741d23f8a6481988a5a4e0fbd.png" group-title="ESPECIAIS ELITE",GREY'S ANATOMY
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
+#EXTINF:-1 tvg-id="EliteOSocio.br" tvg-name="O SOCIO" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/85/O-s%C3%B3cio.jpg/revision/latest?cb=20210111002638&path-prefix=pt-br" group-title="ESPECIAIS ELITE",O SOCIO
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5305.ts
 #EXTINF:-1 tvg-id="EliteBigBang.br" tvg-name="THE BIG BANG THEORY" tvg-logo="http://wwwimage5.cbsstatic.com/thumbnails/photos/w370/show_page/ef54703f0612569a_bbt_thm_16.9_1920x1080.jpg" group-title="ESPECIAIS ELITE",THE BIG BANG THEORY
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5649
+#EXTINF:-1 tvg-id="EliteStrangerThings.br" tvg-name="STRANGER THINGS" tvg-logo="http://wp.ufpel.edu.br/empauta/files/2017/10/strangerthings.jpg" group-title="ESPECIAIS ELITE",STRANGER THINGS
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5323.ts
+#EXTINF:-1 tvg-id="EliteSheldon.br" tvg-name="YOUNG SHELDON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Young_Sheldon_title_card.png/revision/latest?cb=20240606014240" group-title="ESPECIAIS ELITE",YOUNG SHELDON
+http://diretogo.com:80/g845344x/1436041/9561
 #EXTINF:-1 tvg-id="EliteMrBean.br" tvg-name="MR. BEAN" tvg-logo="https://thepagalkhana.files.wordpress.com/2015/12/mr-bean-4de911d0c8d561.png?w=564&h=317" group-title="ESPECIAIS ELITE",MR. BEAN
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5646
 #EXTINF:-1 tvg-id="EliteComoConheci.br" tvg-name="COMO EU CONHECI A SUA MAE - HOW I MEET YOU MOTHER" tvg-logo="https://fanart.tv/detailpreview/fanart/tv/75760/clearart/H_75760.png" group-title="ESPECIAIS ELITE",COMO EU CONHECI A SUA MAE - HOW I MEET YOU MOTHER
@@ -2309,7 +2469,7 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5466
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5465
 #EXTINF:-1 tvg-id="EliteDesenhosBiblicos.br" tvg-name="ELITE DESENHOS BIBLICOS" tvg-logo="https://1.bp.blogspot.com/-h9T1vqHoTX0/W5gthMZV1lI/AAAAAAAACeM/fCma8v5Tb003_hPHQcBgOJQH8B1u_6bAACLcBGAs/s1600/desenhosbiblicos.png" group-title="ESPECIAIS DESENHOS/INFANTIL",ELITE DESENHOS BIBLICOS
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5471
-#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA PINTADINHA" tvg-logo="http://www.imagenspng.com.br/wp-content/uploads/2015/04/Galinha-Pintadinha-5.png" group-title="ESPECIAIS DESENHOS/INFANTIL",GALINHA PINTADINHA
+#EXTINF:-1 tvg-id="EliteGalinhaPintadinha.br" tvg-name="GALINHA PINTADINHA" tvg-logo="https://images.seeklogo.com/logo-png/22/2/galinha-pintadinha-logo-png_seeklogo-227530.png" group-title="ESPECIAIS DESENHOS/INFANTIL",GALINHA PINTADINHA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6307
 #EXTINF:-1 tvg-id="EliteShowdaLuna.br" tvg-name="SHOW DA LUNA" tvg-logo="https://i0.wp.com/riocomcriancas.com.br/wp-content/uploads/2017/10/Logo_final-Show-da-Luna-Ao-Vivo.png?fit=500%2C300" group-title="ESPECIAIS DESENHOS/INFANTIL",SHOW DA LUNA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6006
@@ -2323,20 +2483,24 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5457
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5508
 #EXTINF:-1 tvg-id="EliteHoraDeAventura.br" tvg-name="HORA DE AVENTURA" tvg-logo="https://orig00.deviantart.net/4e4b/f/2012/297/a/8/hora_de_aventura_png______d_by_gordita_tutoriales1-d5iuwh0.png" group-title="ESPECIAIS DESENHOS/INFANTIL",HORA DE AVENTURA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5435
+#EXTINF:-1 tvg-id="EliteApenas.br" tvg-name="APENAS UM SHOW" tvg-logo="http://logocanais.ddns.net/Logo/apenas.png" group-title="ESPECIAIS DESENHOS/INFANTIL",APENAS UM SHOW
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5439
 #EXTINF:-1 tvg-id="ElitePicapau.br" tvg-name="PICA PAU" tvg-logo="https://3.bp.blogspot.com/-tLZ-BoWnUis/V1CWx4Sd30I/AAAAAAAAAVA/pARPfYZ4iSU21Qk3CguImfmtcgfEa6pCACLcB/s200/logo.png" group-title="ESPECIAIS DESENHOS/INFANTIL",PICA PAU
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5577
-#EXTINF:-1 tvg-id="EliteTurmadaMonica.br" tvg-name="TURMA DA MONICA" tvg-logo="http://www.imagenspng.com.br/wp-content/uploads/2015/07/turma-da-monica-01.png" group-title="ESPECIAIS DESENHOS/INFANTIL",TURMA DA MONICA
+#EXTINF:-1 tvg-id="EliteTurmadaMonica.br" tvg-name="TURMA DA MONICA" tvg-logo="https://images.seeklogo.com/logo-png/33/2/turma-da-monica-logo-png_seeklogo-331151.png" group-title="ESPECIAIS DESENHOS/INFANTIL",TURMA DA MONICA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5456
-#EXTINF:-1 tvg-id="ElitePjMasks.br" tvg-name="PJ MASKS" tvg-logo="http://pjmasks.com/files/large/959f82117e512fab2ce53f34e74b5742.png" group-title="ESPECIAIS DESENHOS/INFANTIL",PJ MASKS
+#EXTINF:-1 tvg-id="ElitePjMasks.br" tvg-name="PJ MASKS" tvg-logo="https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2024%2F01%2F15%2F659dee2764def_com.pjmasks.moonlightheroes.png&w=384&h=384&q=100" group-title="ESPECIAIS DESENHOS/INFANTIL",PJ MASKS
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5562
 #EXTINF:-1 tvg-id="EliteZeBuscape.br" tvg-name="ZE BUSCAPE" tvg-logo="http://2.bp.blogspot.com/_Yrud60YYYlo/S6kuULiOCrI/AAAAAAAABD0/BeP9Xh3SGRg/s320/025%2B-%2BZ%25C3%25A9%2BBuscap%25C3%25A9.jpg" group-title="ESPECIAIS DESENHOS/INFANTIL",ZE BUSCAPE
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/8097
 #EXTINF:-1 tvg-id="EliteGummi.br" tvg-name="URSINHOS GUMMY" tvg-logo="http://infantv.com.br/infantv/wp-content/uploads/2016/07/gummi.jpg" group-title="ESPECIAIS DESENHOS/INFANTIL",URSINHOS GUMMY
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/8098
-#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPONJA" tvg-logo="https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png" group-title="ESPECIAIS DESENHOS/INFANTIL",BOB ESPONJA
+#EXTINF:-1 tvg-id="EliteBobEsponja.br" tvg-name="BOB ESPONJA" tvg-logo="https://images.seeklogo.com/logo-png/46/2/bob-esponja-logo-png_seeklogo-466322.png" group-title="ESPECIAIS DESENHOS/INFANTIL",BOB ESPONJA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5372
-#EXTINF:-1 tvg-id="EliteDora.br" tvg-name="DORA & DIEGO" tvg-logo="https://vignette4.wikia.nocookie.net/doratheexplorer/images/e/ea/Diego3.png/revision/latest?cb=20130917150722" group-title="ESPECIAIS DESENHOS/INFANTIL",DORA & DIEGO
+#EXTINF:-1 tvg-id="EliteDora.br" tvg-name="DORA AVENTUREIRA" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680dcb9c-f5f7-4dd6-97c0-d34984b06ef7/dknaou9-8f3dd3fe-d494-43a5-ae3d-faef40089673.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ODBkY2I5Yy1mNWY3LTRkZDYtOTdjMC1kMzQ5ODRiMDZlZjcvZGtuYW91OS04ZjNkZDNmZS1kNDk0LTQzYTUtYWUzZC1mYWVmNDAwODk2NzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7DbhqtyYiSL4PYv6lg0FvyY_Md5NbSdZAfg0A1u5gzM" group-title="ESPECIAIS DESENHOS/INFANTIL",DORA AVENTUREIRA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5394
+#EXTINF:-1 tvg-id="EliteDora.br" tvg-name="GO DIEGO GO!" tvg-logo="https://vignette4.wikia.nocookie.net/doratheexplorer/images/e/ea/Diego3.png/revision/latest?cb=20130917150722" group-title="ESPECIAIS DESENHOS/INFANTIL",GO DIEGO GO!
+http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6301
 #EXTINF:-1 tvg-id="EliteHeMan.br" tvg-name="HE-MAN" tvg-logo="https://fanart.tv/api/download.php?type=download&image=1457&section=1" group-title="ESPECIAIS DESENHOS/INFANTIL",HE-MAN
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6308
 #EXTINF:-1 tvg-id="EliteThunderCats.br" tvg-name="THUNDERCATS" tvg-logo="https://res.cloudinary.com/teepublic/image/private/s--89mZcZPn--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1446245458/production/designs/301496_1.jpg" group-title="ESPECIAIS DESENHOS/INFANTIL",THUNDERCATS
@@ -2357,6 +2521,10 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5472
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5568
 #EXTINF:-1 tvg-id="EliteChoque.br" tvg-name="SUPER CHOQUE" tvg-logo="https://orig00.deviantart.net/17e2/f/2016/331/7/4/static_shock_png_render_by_mrvideo_vidman-dapro2c.png" group-title="ESPECIAIS DESENHOS/INFANTIL",SUPER CHOQUE
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5436
+#EXTINF:-1 tvg-id="" tvg-name="SOUTH PARK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5ac712-da86-44e4-b223-55d710e650dc/d1yxi8q-c825a9b1-c25c-469b-ba81-a8d65157910c.png/v1/fill/w_877,h_911/south_park_logo_by_sonic_gal007_d1yxi8q-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExNCIsInBhdGgiOiIvZi83YTVhYzcxMi1kYTg2LTQ0ZTQtYjIyMy01NWQ3MTBlNjUwZGMvZDF5eGk4cS1jODI1YTliMS1jMjVjLTQ2OWItYmE4MS1hOGQ2NTE1NzkxMGMucG5nIiwid2lkdGgiOiI8PTEwNzMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iVJLDrpKDPfjlHLbezIePI0nAGdnDXXc368TcJ7Xa2g" group-title="ESPECIAIS DESENHOS/INFANTIL",SOUTH PARK
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5340.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/78/ElChavo_animado.jpg?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="ESPECIAIS DESENHOS/INFANTIL",CHAVES DESENHO
+http://srv.elitehdbr.com:25461/live/Gdnbd/DvzHEMwqfR/5339.ts
 #EXTINF:-1 tvg-id="EliteFlintstones.br" tvg-name="OS FLINTSTONES" tvg-logo="http://www.universohq.com/wp-content/uploads/2015/09/Os-Flintstones.png" group-title="ESPECIAIS DESENHOS/INFANTIL",OS FLINTSTONES
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5437
 #EXTINF:-1 tvg-id="EliteCaverna.br" tvg-name="CAVERNA DO DRAGAO" tvg-logo="http://caverna.mushi-san.com/m_i/caverna2013.png" group-title="ESPECIAIS DESENHOS/INFANTIL",CAVERNA DO DRAGAO
@@ -2375,13 +2543,13 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5434
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5464
 #EXTINF:-1 tvg-id="EliteChaves.br" tvg-name="CHAVES" tvg-logo="https://4.bp.blogspot.com/-oBrIC_dwGpE/WfAJfyjkAsI/AAAAAAAACOw/jIWAUaO9fKItHOg3DGh6-mNzuO_h6vnzACLcBGAs/s1600/CHA.png" group-title="ESPECIAIS ELITE",CHAVES
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5431
-#EXTINF:-1 tvg-id="EliteFamiliaDino.br" tvg-name="FAMILIA DINOSSAURO" tvg-logo="https://static.vix.com/pt/sites/default/files/styles/large/public/bbr/familia_dinossauro.jpg?itok=UoI2F8Eq" group-title="ESPECIAIS ELITE",FAMILIA DINOSSAURO
+#EXTINF:-1 tvg-id="EliteFamiliaDino.br" tvg-name="FAMILIA DINOSSAURO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM6cmQPQWUqgauOwZ2qK5w9YfdrL4LzJ9z1_8hfDxAlB88jJvmlc76GMw&s=10" group-title="ESPECIAIS ELITE",FAMILIA DINOSSAURO
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5467
 #EXTINF:-1 tvg-id="EliteDennis.br" tvg-name="DENIS PIMENTINHA" tvg-logo="https://http2.mlstatic.com/dennis-o-pimentinha-desenho-dublagem-classica-D_NQ_NP_651287-MLB26427186286_112017-F.jpg" group-title="ESPECIAIS DESENHOS/INFANTIL",DENIS PIMENTINHA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7789
-#EXTINF:-1 tvg-id="EliteMasha.br" tvg-name="MASHA E O URSO" tvg-logo="https://occ-0-2152-2433.1.nflxso.net/art/abc03/3732b71bf7bdc0af6ee3cd2b934df12f979abc03.png" group-title="ESPECIAIS DESENHOS/INFANTIL",MASHA E O URSO
+#EXTINF:-1 tvg-id="EliteMasha.br" tvg-name="MASHA E O URSO" tvg-logo="https://media.themoviedb.org/t/p/w1280/aDToc2R9INHiRMVZfKbUDqbzW0m.png" group-title="ESPECIAIS DESENHOS/INFANTIL",MASHA E O URSO
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6876
-#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="OS SIMPSONS" tvg-logo="https://seeklogo.com/images/L/Los_Simpsons_Bart_y_Homero-logo-BE24683FBE-seeklogo.com.png" group-title="ESPECIAIS DESENHOS/INFANTIL",OS SIMPSONS
+#EXTINF:-1 tvg-id="EliteSimpsons.br" tvg-name="OS SIMPSONS" tvg-logo="https://images.seeklogo.com/logo-png/8/2/los-simpsons-bart-y-homero-logo-png_seeklogo-85667.png" group-title="ESPECIAIS DESENHOS/INFANTIL",OS SIMPSONS
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6879
 #EXTINF:-1 tvg-id="EliteJetsons.br" tvg-name="OS JETSONS" tvg-logo="https://3.bp.blogspot.com/-E8s1FGfMnVM/Wt6UG9nx2WI/AAAAAAAACC8/1wzShUoO8cED3pLQtZQhH3OGPO7D5_p2gCLcBGAs/s1600/Jetsons.png" group-title="ESPECIAIS DESENHOS/INFANTIL",OS JETSONS
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6891
@@ -2391,7 +2559,7 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7791
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6877
 #EXTINF:-1 tvg-id="ElitePepe.br" tvg-name="PEPE LEGAL" tvg-logo="https://http2.mlstatic.com/pepe-legal-desenho-animado-dublado-antigo-anos-80-D_NQ_NP_849434-MLB26566429826_122017-F.jpg" group-title="ESPECIAIS DESENHOS/INFANTIL",PEPE LEGAL
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/7790
-#EXTINF:-1 tvg-id="ElitePeppa.br" tvg-name="PEPPA. PIG." tvg-logo="https://www.penguin.co.uk/content/dam/prh-consumer/ladybird/hub-roundals/Peppa-Pig.png" group-title="ESPECIAIS DESENHOS/INFANTIL",PEPPA. PIG.
+#EXTINF:-1 tvg-id="ElitePeppa.br" tvg-name="PEPPA. PIG." tvg-logo="https://media.themoviedb.org/t/p/w1280/6SaSDlOTLrEOX8MqGpr7eOYPLwz.png" group-title="ESPECIAIS DESENHOS/INFANTIL",PEPPA. PIG.
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/6878
 #EXTINF:-1 tvg-id="EliteAnitta.br" tvg-name="ANITTA" tvg-logo="http://www.musicaparamusica.com.br/media/_images/anitta-capa.jpg" group-title="ESPECIAIS CLIPS MUSICAIS",ANITTA
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5647
@@ -3079,113 +3247,113 @@ http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5614
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/2180
 #EXTINF:-1 tvg-id="" tvg-name="LT: UNIVISION DEPORTES" tvg-logo="https://seeklogo.com/images/U/univision-deportes-logo-79C578256D-seeklogo.com.png" group-title="LATINOS",LT: UNIVISION DEPORTES
 http://srv.elitehdbr.vip:8880/geraldooliveiramks/BZfbQhXgero/5613
-#EXTINF:-1 tvg-id="" tvg-name="O NAUFRAGO" tvg-logo="http://srv.elitehdbr.vip:8880/images/w515BrZvczKIxbHurG6HIiYYrba_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",O NAUFRAGO
+#EXTINF:-1 tvg-id="" tvg-name="O NAUFRAGO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",O NAUFRAGO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="DE CARONA PARA O AMOR DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/h065db1br7f9VW0x0LkOVfdtZqG_small.jpg" group-title="FILMES - LANCAMENTOS 2018",DE CARONA PARA O AMOR DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="DE CARONA PARA O AMOR DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",DE CARONA PARA O AMOR DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENCE DAY" tvg-logo="http://srv.elitehdbr.vip:8880/images/bqLlWZJdhrS0knfEJRkquW7L8z2_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",INDEPENDENCE DAY
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENCE DAY" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",INDEPENDENCE DAY
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JURASSIC PARK I - O PARQUE DOS DINOSSAUROS FHD" tvg-logo="http://srv.elitehdbr.vip:8880/images/c414cDeQ9b6qLPLeKmiJuLDUREJ_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",JURASSIC PARK I - O PARQUE DOS DINOSSAUROS FHD
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC PARK I - O PARQUE DOS DINOSSAUROS FHD" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",JURASSIC PARK I - O PARQUE DOS DINOSSAUROS FHD
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JURASSIC PARK II - O MUNDO PERDIDO FHD" tvg-logo="http://srv.elitehdbr.vip:8880/images/u1fXmEQUCI9CjyHCCYOPBSq2DYo_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",JURASSIC PARK II - O MUNDO PERDIDO FHD
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC PARK II - O MUNDO PERDIDO FHD" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",JURASSIC PARK II - O MUNDO PERDIDO FHD
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10589.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JURASSIC PARK III FHD" tvg-logo="http://srv.elitehdbr.vip:8880/images/26L7XODsNlxX3VwkfuUnYOslbRF_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",JURASSIC PARK III FHD
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NADA A ESCONDER DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/xPvg77GN7D7MIU8rbTLHEzPj0OD_small.jpg" group-title="FILMES - LANCAMENTOS 2018",NADA A ESCONDER DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="NADA A ESCONDER DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",NADA A ESCONDER DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O COMECO DE UM GRANDE AMOR" tvg-logo="http://srv.elitehdbr.vip:8880/images/yAwoDmcLFuZxg5bHzYgRexYhykm_small.jpg" group-title="FILMES - LANCAMENTOS 2018",O COMECO DE UM GRANDE AMOR
+#EXTINF:-1 tvg-id="" tvg-name="O COMECO DE UM GRANDE AMOR" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",O COMECO DE UM GRANDE AMOR
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OS CACA FANTASMAS 1 DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/3FS3oBdorgczgfCkFi2u8ZTFfpS_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",OS CACA FANTASMAS 1 DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="OS CACA FANTASMAS 1 DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",OS CACA FANTASMAS 1 DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OS CACA FANTASMAS 2 DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/4nN0EYNbOWHJ9UO39maO5Kvcdfa_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",OS CACA FANTASMAS 2 DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="OS CACA FANTASMAS 2 DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",OS CACA FANTASMAS 2 DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ARMAGEDOM DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/coINnuCzcw5FMHBty8hcudMOBnO_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",ARMAGEDOM DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="ARMAGEDOM DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",ARMAGEDOM DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PURO SANGUE DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/pIxZzTfITqBpZxbIGsV01DcoHsT_small.jpg" group-title="FILMES - LANCAMENTOS 2018",PURO SANGUE DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="PURO SANGUE DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",PURO SANGUE DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O RESGATE DO SOLDADO RYAN DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/miDoEMlYDJhOCvxlzI0wZqBs9Yt_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",O RESGATE DO SOLDADO RYAN DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="O RESGATE DO SOLDADO RYAN DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",O RESGATE DO SOLDADO RYAN DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A ESPERA DE UM MILAGRE FHD DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/sOHqdY1RnSn6kcfAHKu28jvTebE_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",A ESPERA DE UM MILAGRE FHD DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="A ESPERA DE UM MILAGRE FHD DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avifg" group-title="FILMES - ADICIONADOS RECENTEMENTE",A ESPERA DE UM MILAGRE FHD DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CONFIDENTIAL ASSIGNMENT LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/begGZaUaxdUConId1554D9D8gms_small.jpg" group-title="FILMES - LANCAMENTOS 2018",CONFIDENTIAL ASSIGNMENT LEG
+#EXTINF:-1 tvg-id="" tvg-name="CONFIDENTIAL ASSIGNMENT LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",CONFIDENTIAL ASSIGNMENT LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="FORREST GUMP DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/yE5d3BUhE8hCnkMUJOo1QDoOGNz_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",FORREST GUMP DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="FORREST GUMP DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",FORREST GUMP DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O TERMINAL DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/f4Dup6awDfDqAHKgWqNJ2HFw1qN_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",O TERMINAL DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="O TERMINAL DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",O TERMINAL DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 MILHAS" tvg-logo="http://srv.elitehdbr.vip:8880/images/2L8ehd95eSW9x7KINYtZmRkAlrZ_small.jpg" group-title="FILMES - LANCAMENTOS 2018",22 MILHAS
+#EXTINF:-1 tvg-id="" tvg-name="22 MILHAS" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",22 MILHAS
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/pk9R56ZFlofbBzfwBnHlDyg5DMs_small.jpg" group-title="FILMES - LANCAMENTOS 2018",BUSCANDO LEG
+#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",BUSCANDO LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CHRISTOPHER ROBIN - UM REENCONTRO INESQUECIVEL DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/jnOk25GgRuQJq2bGYlFBJOjsjCj_small.jpg" group-title="FILMES - LANCAMENTOS 2018",CHRISTOPHER ROBIN - UM REENCONTRO INESQUECIVEL DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="CHRISTOPHER ROBIN - UM REENCONTRO INESQUECIVEL DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",CHRISTOPHER ROBIN - UM REENCONTRO INESQUECIVEL DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ESTOU DE VOLTA" tvg-logo="http://srv.elitehdbr.vip:8880/images/tLTnOmzyTjVtN6G4BtZxQvcuROF_small.jpg" group-title="FILMES - LANCAMENTOS 2018",ESTOU DE VOLTA
+#EXTINF:-1 tvg-id="" tvg-name="ESTOU DE VOLTA" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",ESTOU DE VOLTA
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RIVER RUNS RED LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/xxzDqQKNmNJPukTK7zux7gqaY6D_small.jpg" group-title="FILMES - LANCAMENTOS 2018",RIVER RUNS RED LEG
+#EXTINF:-1 tvg-id="" tvg-name="RIVER RUNS RED LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avifg" group-title="FILMES - LANCAMENTOS 2018",RIVER RUNS RED LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="WHITNEY LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/j1c6dTycYBMZs2T1wKA6bknLLa6_small.jpg" group-title="FILMES - LANCAMENTOS 2018",WHITNEY LEG
+#EXTINF:-1 tvg-id="" tvg-name="WHITNEY LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",WHITNEY LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TITANIC DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/kHXEpyfl6zqn8a6YuozZUujufXf_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",TITANIC DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="TITANIC DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",TITANIC DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VOYEUR DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/c71r3H5vzelTsYmNimIpQZ0MiMI_small.jpg" group-title="FILMES - LANCAMENTOS 2018",VOYEUR DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="VOYEUR DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",VOYEUR DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O PROTETOR 2 DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/cQvc9N6JiMVKqol3wcYrGshsIdZ_small.jpg" group-title="FILMES - LANCAMENTOS 2018",O PROTETOR 2 DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="O PROTETOR 2 DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",O PROTETOR 2 DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PREDADOR LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/wMq9kQXTeQCHUZOG4fAe5cAxyUA_small.jpg" group-title="FILMES - LANCAMENTOS 2018",PREDADOR LEG
+#EXTINF:-1 tvg-id="" tvg-name="PREDADOR LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",PREDADOR LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PREDADOR" tvg-logo="http://srv.elitehdbr.vip:8880/images/wMq9kQXTeQCHUZOG4fAe5cAxyUA_small.jpg" group-title="FILMES - LANCAMENTOS 2018",PREDADOR
+#EXTINF:-1 tvg-id="" tvg-name="PREDADOR" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avifg" group-title="FILMES - LANCAMENTOS 2018",PREDADOR
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A FERA DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/kZdncyp1IKhEqwv5zdmUpK5Dc7S_small.jpg" group-title="FILMES - LANCAMENTOS 2018",A FERA DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="A FERA DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",A FERA DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ABSORVENTE LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/kHyoFs6BIJJwCaFlWu6P5Bnpa70_small.jpg" group-title="FILMES - LANCAMENTOS 2018",HOMEM ABSORVENTE LEG
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ABSORVENTE LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",HOMEM ABSORVENTE LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="HOSTIS DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/rqoezyB51GfhiloOB5ZErg5HXas_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",HOSTIS DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="HOSTIS DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",HOSTIS DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VIDAS A DERIVA" tvg-logo="http://srv.elitehdbr.vip:8880/images/5gLDeADaETvwQlQow5szlyuhLbj_small.jpg" group-title="FILMES - LANCAMENTOS 2018",VIDAS A DERIVA
+#EXTINF:-1 tvg-id="" tvg-name="VIDAS A DERIVA" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",VIDAS A DERIVA
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LEGITIMO REI DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/rT49ousKUWN3dV7UlhaC9onTNdl_small.jpg" group-title="FILMES - LANCAMENTOS 2018",LEGITIMO REI DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="LEGITIMO REI DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",LEGITIMO REI DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MEDO DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/fOG5Cj9URclWa0zyESPBuRCvAFh_small.jpg" group-title="FILMES - LANCAMENTOS 2018",A CASA DO MEDO DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MEDO DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",A CASA DO MEDO DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MAMMA MIA: LA VAMOS NOS DE NOVO DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/gOm2iMMbC6EonrFzmSQ8xvCa4Ei_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",MAMMA MIA: LA VAMOS NOS DE NOVO DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="MAMMA MIA: LA VAMOS NOS DE NOVO DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",MAMMA MIA: LA VAMOS NOS DE NOVO DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="INFILTRADO NA KLAN FHD LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/bT5WuAsjDJYQv2vXbWGDQTmjKav_small.jpg" group-title="FILMES - LANCAMENTOS 2018",INFILTRADO NA KLAN FHD LEG
+#EXTINF:-1 tvg-id="" tvg-name="INFILTRADO NA KLAN FHD LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",INFILTRADO NA KLAN FHD LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="INFILTRADO NA KLAN HD LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/bT5WuAsjDJYQv2vXbWGDQTmjKav_small.jpg" group-title="FILMES - LANCAMENTOS 2018",INFILTRADO NA KLAN HD LEG
+#EXTINF:-1 tvg-id="" tvg-name="INFILTRADO NA KLAN HD LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",INFILTRADO NA KLAN HD LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SICARIO 2: DIA DO SOLDADO DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/msqWSQkU403cQKjQHnWLnugv7EY_small.jpg" group-title="FILMES - LANCAMENTOS 2018",SICARIO 2: DIA DO SOLDADO DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="SICARIO 2: DIA DO SOLDADO DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",SICARIO 2: DIA DO SOLDADO DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PAPILLON FHD" tvg-logo="http://srv.elitehdbr.vip:8880/images/ahF5c6vyP8HWMqIwlhecbRALkjq_small.jpg" group-title="FILMES - LANCAMENTOS 2018",PAPILLON FHD
+#EXTINF:-1 tvg-id="" tvg-name="PAPILLON FHD" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",PAPILLON FHD
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PAPILLON HD" tvg-logo="http://srv.elitehdbr.vip:8880/images/ahF5c6vyP8HWMqIwlhecbRALkjq_small.jpg" group-title="FILMES - LANCAMENTOS 2018",PAPILLON HD
+#EXTINF:-1 tvg-id="" tvg-name="PAPILLON HD" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",PAPILLON HD
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A FREIRA - DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/sFC1ElvoKGdHJIWRpNB3xWJ9lJA_small.jpg" group-title="FILMES - LANCAMENTOS 2018",A FREIRA - DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="A FREIRA - DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",A FREIRA - DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MEGATUBARAO DUAL AUDIO" tvg-logo="http://srv.elitehdbr.vip:8880/images/eyWICPcxOuTcDDDbTMOZawoOn8d_small.jpg" group-title="FILMES - LANCAMENTOS 2018",MEGATUBARAO DUAL AUDIO
+#EXTINF:-1 tvg-id="" tvg-name="MEGATUBARAO DUAL AUDIO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",MEGATUBARAO DUAL AUDIO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CONTRA A PAREDE" tvg-logo="http://srv.elitehdbr.vip:8880/images/u57xQrINxJIDjjdG78mHLUOWZsJ_small.jpg" group-title="FILMES - LANCAMENTOS 2018",CONTRA A PAREDE
+#EXTINF:-1 tvg-id="" tvg-name="CONTRA A PAREDE" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",CONTRA A PAREDE
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MARA O DEMONIO DO SONO" tvg-logo="http://srv.elitehdbr.vip:8880/images/gQDmXAef1Oc1SXci5mui2x5DJwt_small.jpg" group-title="FILMES - LANCAMENTOS 2018",MARA O DEMONIO DO SONO
+#EXTINF:-1 tvg-id="" tvg-name="MARA O DEMONIO DO SONO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",MARA O DEMONIO DO SONO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MENTES SOMBRIAS" tvg-logo="http://srv.elitehdbr.vip:8880/images/94RaS52zmsqaiAe1TG20pdbJCZr_small.jpg" group-title="FILMES - LANCAMENTOS 2018",MENTES SOMBRIAS
+#EXTINF:-1 tvg-id="" tvg-name="MENTES SOMBRIAS" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",MENTES SOMBRIAS
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="NO RITMO DA SEDUCAO" tvg-logo="http://srv.elitehdbr.vip:8880/images/a3dqNHMfbVxiiRafVLay87JljK7_small.jpg" group-title="FILMES - LANCAMENTOS 2018",NO RITMO DA SEDUCAO
+#EXTINF:-1 tvg-id="" tvg-name="NO RITMO DA SEDUCAO" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",NO RITMO DA SEDUCAO
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O CHEFE" tvg-logo="http://srv.elitehdbr.vip:8880/images/XF5jV0UxKnYNPAimem0hbwPfCR_small.jpg" group-title="FILMES - LANCAMENTOS 2018",O CHEFE
+#EXTINF:-1 tvg-id="" tvg-name="O CHEFE" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",O CHEFE
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O NOME DA MORTE" tvg-logo="http://srv.elitehdbr.vip:8880/images/6DFSDkkN31rNIch3OVEpDF5BrsF_small.jpg" group-title="FILMES - LANCAMENTOS 2018",O NOME DA MORTE
+#EXTINF:-1 tvg-id="" tvg-name="O NOME DA MORTE" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",O NOME DA MORTE
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="VIKING OS PERGAMINHOS SAGRADOS" tvg-logo="http://srv.elitehdbr.vip:8880/images/1mmvqMBEkiOQyF9nutmhTWoCqDC_small.jpg" group-title="FILMES - LANCAMENTOS 2018",VIKING OS PERGAMINHOS SAGRADOS
+#EXTINF:-1 tvg-id="" tvg-name="VIKING OS PERGAMINHOS SAGRADOS" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avifg" group-title="FILMES - LANCAMENTOS 2018",VIKING OS PERGAMINHOS SAGRADOS
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA FHD 1080 LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/afdZAIcAQscziqVtsEoh2PwsYTW_small.jpg" group-title="FILMES - LANCAMENTOS 2018",ALPHA FHD 1080 LEG
+#EXTINF:-1 tvg-id="" tvg-name="ALPHA FHD 1080 LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",ALPHA FHD 1080 LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ALPHA HD 720 LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/afdZAIcAQscziqVtsEoh2PwsYTW_small.jpg" group-title="FILMES - LANCAMENTOS 2018",ALPHA HD 720 LEG
+#EXTINF:-1 tvg-id="" tvg-name="ALPHA HD 720 LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",ALPHA HD 720 LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OS INCRIVEIS 2" tvg-logo="http://srv.elitehdbr.vip:8880/images/x1txcDXkcM65gl7w20PwYSxAYah_small.jpg" group-title="FILMES - LANCAMENTOS 2018",OS INCRIVEIS 2
+#EXTINF:-1 tvg-id="" tvg-name="OS INCRIVEIS 2" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",OS INCRIVEIS 2
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OS INCRIVEIS 2 LEG" tvg-logo="http://srv.elitehdbr.vip:8880/images/x1txcDXkcM65gl7w20PwYSxAYah_small.jpg" group-title="FILMES - LANCAMENTOS 2018",OS INCRIVEIS 2 LEG
+#EXTINF:-1 tvg-id="" tvg-name="OS INCRIVEIS 2 LEG" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - LANCAMENTOS 2018",OS INCRIVEIS 2 LEG
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LIMITE DA HONRA" tvg-logo="http://srv.elitehdbr.vip:8880/images/75ez934tsz0WwASp0lUgE9wQXpt_small.jpg" group-title="FILMES - ADICIONADOS RECENTEMENTE",LIMITE DA HONRA
+#EXTINF:-1 tvg-id="" tvg-name="LIMITE DA HONRA" tvg-logo="https://cdn.vectorstock.com/i/250p/58/12/cinema-elements-props-vector-14325812.avif" group-title="FILMES - ADICIONADOS RECENTEMENTE",LIMITE DA HONRA
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10472.mp4
 #EXTINF:-1 tvg-id="" tvg-name="CALIBRE" tvg-logo="http://srv.elitehdbr.vip:8880/images/gCVOQzV7Z556WnJFNeX7y8BFhyW_small.jpg" group-title="FILMES - LANCAMENTOS 2018",CALIBRE
 http://srv.elitehdbr.vip:8880/movie/geraldooliveiramks/BZfbQhXgero/10455.mp4
